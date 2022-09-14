@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola, sou Paloma 👋
 
 - 🔭 Sou acadêmica de matemática computacional
 - 🌱 Estou estudando a linguagem C, HTML e Python
