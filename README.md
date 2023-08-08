@@ -1,5 +1,5 @@
 - 🔭 Sou acadêmica de matemática computacional
-- 🌱 Estou estudando a linguagem C, Java, Python e Html
+- 🌱 Estou estudando a linguagem C, Java, Python e HTML
 - 😄 Pronouns: Ela/Dela
 
 ## Oiii eu sou a Paloma Lima👋, iniciante no mundo da programação e tecnologia!
