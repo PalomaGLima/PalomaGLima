@@ -1,7 +1,7 @@
 # Olá, mundo! Eu sou o Paloma 👋
 
 <div align="center">
-  <img src="https://cardivo.vercel.app/api?user=[PalomaGLima]&theme=tokyonight&description=true" width="400" alt="Card do GitHub">
+  <img src="https://cardivo.vercel.app/api?user=PalomaGLima&theme=tokyonight&description=true" width="400" alt="Card do GitHub">
 </div>
 
 ---
@@ -80,5 +80,5 @@ Bora trocar uma ideia sobre código, metodologias de ensino ou processos de sist
 
 <div align="center">
   <h5>Visitantes no Perfil</h5>
-  <img src="https://profile-counter.glitch.me/[SeuUsuarioDoGitHub]/count.svg" alt="Contador de Visitas" />
+  <img src="https://profile-counter.glitch.me/PalomaGLima/count.svg" alt="Contador de Visitas" />
 </div>
