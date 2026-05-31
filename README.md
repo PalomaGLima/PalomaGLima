@@ -1,7 +1,7 @@
 # Olá, mundo! Eu sou o Paloma 👋
 
 <div align="center">
-  <img src="https://cardivo.vercel.app/api?user=PalomaGLima&theme=tokyonight&description=true" width="400" alt="Card do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=[PalomaGLima]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
 </div>
 
 ---
