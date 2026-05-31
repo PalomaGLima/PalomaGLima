@@ -1,7 +1,7 @@
-# Olá, mundo! Eu sou o [Seu Nome] 👋
+# Olá, mundo! Eu sou o Paloma 👋
 
 <div align="center">
-  <img src="https://cardivo.vercel.app/api?user=[SeuUsuarioDoGitHub]&theme=tokyonight&description=true" width="400" alt="Card do GitHub">
+  <img src="https://cardivo.vercel.app/api?user=[PalomaGLima]&theme=tokyonight&description=true" width="400" alt="Card do GitHub">
 </div>
 
 ---
