@@ -1,8 +1,8 @@
-- 🔭 Sou acadêmica de matemática computacional
+- 🔭 Sou acadêmica de Engenharia de Software
 - 🌱 Estou estudando a linguagem JavaScript, Python, HTML e CSS
 - 😄 Pronouns: Ela/Dela
 
-## Oiii eu sou a Paloma Lima👋, iniciante no mundo da programação e tecnologia!
+## Oiii eu sou a Paloma Lima👋!
 <div align="center">
   <a href="https://github.com/PalomaGLima">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PalomaGLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
