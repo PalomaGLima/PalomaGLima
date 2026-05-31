@@ -59,7 +59,7 @@ Aqui o bicho pega! Gráficos interativos atualizados automaticamente com o meu d
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[SeuUsuarioDoGitHub]&theme=tokyonight" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PalomaGLima&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
