@@ -80,5 +80,5 @@ Bora trocar uma ideia sobre código, metodologias de ensino ou processos de sist
 
 <div align="center">
   <h5>Visitantes no Perfil</h5>
-  <img src="https://mojo-count.vercel.app/api/hit?user=PalomaGLima&repo=PalomaGLima&label=Visualizações&color=7952b3&style=for-the-badge" alt="Contador de Visitas" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPalomaGLima&count_bg=%237952B3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Contador de Visitas" />
 </div>
