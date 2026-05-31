@@ -76,7 +76,7 @@ Aqui o bicho pega! Gráficos interativos atualizados automaticamente com o meu d
 Bora trocar uma ideia sobre código, metodologias de ensino ou processos de sistemas?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SeuLinkedin])
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palomalima272@gmail.com)
 
 <div align="center">
   <h5>Visitantes no Perfil</h5>
