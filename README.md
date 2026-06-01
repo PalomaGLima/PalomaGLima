@@ -64,13 +64,6 @@ Aqui o bicho pega! Gráficos interativos atualizados automaticamente com o meu d
 
 ---
 
-## ⚡ Curiosidades Interativas
-
-* **Minha Stack de Produtividade:** Fã de soluções self-hosted e segurança da informação (gerenciadores de senha locais são vida!).
-* **Combustível:** Se me vir codando ou montando um treinamento, provavelmente há uma xícara de café e uma porção de frutas por perto.
-
----
-
 ## 🤝 Conecte-se Comigo
 
 Bora trocar uma ideia sobre código, metodologias de ensino ou processos de sistemas?
