@@ -54,13 +54,20 @@ Sou um entusiasta da tecnologia que encontrou o equilíbrio perfeito entre **des
 Aqui o bicho pega! Gráficos interativos atualizados automaticamente com o meu desempenho:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PalomaGLima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaGLima&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PalomaGLima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaGLima&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PalomaGLima&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+---
+
+## ⚡ Curiosidades Interativas
+
+* **Minha Stack de Produtividade:** Fã de soluções self-hosted e segurança da informação (gerenciadores de senha locais são vida!).
+* **Combustível:** Se me vir codando ou montando um treinamento, provavelmente há uma xícara de café e uma porção de frutas por perto.
 
 ---
 
