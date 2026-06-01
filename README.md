@@ -1,9 +1,5 @@
 # Olá, mundo! Eu sou a Paloma 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PalomaGLima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</div>
-
 ---
 
 ## 🚀 Sobre Mim
@@ -23,28 +19,34 @@ Sou um entusiasta da tecnologia que encontrou o equilíbrio perfeito entre **des
   <summary><b>💻 Desenvolvimento & Engenharia (Clique para expandir)</b></summary>
   <br>
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="JavaScript" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="SQL" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="SQL" height="40" />
 </details>
 
 <details>
   <summary><b>📊 Análise, Negócio & Infraestrutura</b></summary>
   <br>
-
-  ![Sistemas](https://img.shields.io/badge/Análise_de_Sistemas-00599C?style=for-the-badge&logo=diagrams.net&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=purple" alt="Obsidian" height="40" />
+  <img src="https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" height="40" />
+  <img src="https://img.shields.io/badge/Scrum-%23662D91.svg?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" height="40" />
+  
 </details>
 
 <details>
   <summary><b>🗣️ Soft Skills & Educação</b></summary>
   <br>
 
-  ![Treinamentos](https://img.shields.io/badge/Treinamentos_Técnicos-4CAF50?style=for-the-badge&logo=google-classroom&logoColor=white)
-  ![Customer Success](https://img.shields.io/badge/Customer_Success-FF5722?style=for-the-badge&logo=handshake&logoColor=white)
-  ![Didática](https://img.shields.io/badge/Didática_e_Ensino-9C27B0?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Treinamentos_Técnicos-4CAF50?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Treinamentos" height="40" />
+  <img src="https://img.shields.io/badge/Customer_Success-FF5722?style=for-the-badge&logo=handshake&logoColor=white" alt="Customer Success" height="40" />
+  <img src="https://img.shields.io/badge/Didática_e_Ensino-9C27B0?style=for-the-badge" alt="Didática" height="40" />
+  <img src="https://img.shields.io/badge/Comunicação_Técnica-009688?style=for-the-badge" alt="Comunicação" height="40" />
+  <img src="https://img.shields.io/badge/User_Empathy-E91E63?style=for-the-badge&logo=heart&logoColor=white" alt="Empatia" height="40" />
+  <img src="https://img.shields.io/badge/Problem_Solving-3F51B5?style=for-the-badge" alt="Resolução de Problemas" height="40" />
+  
 </details>
 
 ---
@@ -54,20 +56,21 @@ Sou um entusiasta da tecnologia que encontrou o equilíbrio perfeito entre **des
 Aqui o bicho pega! Gráficos interativos atualizados automaticamente com o meu desempenho:
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PalomaGLima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaGLima&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PalomaGLima&theme=radical" />
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PalomaGLima&theme=radical" />
+
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PalomaGLima&theme=tokyonight" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=PalomaGLima&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
 
-## ⚡ Curiosidades Interativas
+## ⚡ Curiosidades Sobre Mim
 
-* **Minha Stack de Produtividade:** Fã de soluções self-hosted e segurança da informação (gerenciadores de senha locais são vida!).
-* **Combustível:** Se me vir codando ou montando um treinamento, provavelmente há uma xícara de café e uma porção de frutas por perto.
+* 🧠 **Paixão por IHC:** Sou fascinado por *Human-Computer Interaction* (Interação Humano-Computador). Para mim, um sistema só é verdadeiramente bom se for fácil e intuitivo para o usuário usar!
+* 💬 **Bilingue em Construção:** Além do português, me comunico muito bem em inglês (nível B2) e adoro consumir conteúdos técnicos e interagir nessa língua.
 
 ---
 
@@ -78,7 +81,3 @@ Bora trocar uma ideia sobre código, metodologias de ensino ou processos de sist
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-lima-a63447148)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palomalima272@gmail.com)
 
-<div align="center">
-  <h5>Visitantes no Perfil</h5>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPalomaGLima&count_bg=%237952B3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Contador de Visitas" />
-</div>
