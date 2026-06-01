@@ -13,7 +13,7 @@ Sou um entusiasta da tecnologia que encontrou o equilíbrio perfeito entre **des
 *   🔭 **Atuação Atual:** Analista de Sistemas focado em melhoria contínua e treinamentos técnicos.
 *   🎓 **Formação:** Graduando em Engenharia de Software.
 *   🎯 **Objetivo de Carreira:** Focar cada vez mais em habilitar o sucesso do cliente através de tecnologia e capacitação (*Implementation / Customer Enablement*).
-*   🌱 **Estudando no momento:** Arquitetura de software, certificações rápidas e novas metodologias de ensino técnico.
+*   🌱 **Estudando no momento:** Customer Experience Management.
 
 ---
 
