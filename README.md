@@ -11,7 +11,7 @@
 Sou um entusiasta da tecnologia que encontrou o equilíbrio perfeito entre **desenvolvimento de software** e a **arte de ensinar**. Atualmente, atuo na área de saúde otimizando sistemas, enquanto curso Engenharia de Software. Minha missão é traduzir linhas de código complexas em soluções eficientes e conhecimento compartilhável!
 
 *   🔭 **Atuação Atual:** Analista de Sistemas focado em melhoria contínua e treinamentos técnicos.
-*   🎓 **Formação:** Graduando em Engenharia de Software & Licenciado em Educação (sim, eu amo ensinar!).
+*   🎓 **Formação:** Graduando em Engenharia de Software.
 *   🎯 **Objetivo de Carreira:** Focar cada vez mais em habilitar o sucesso do cliente através de tecnologia e capacitação (*Implementation / Customer Enablement*).
 *   🌱 **Estudando no momento:** Arquitetura de software, certificações rápidas e novas metodologias de ensino técnico.
 
