@@ -10,10 +10,10 @@
 
 Sou um entusiasta da tecnologia que encontrou o equilíbrio perfeito entre **desenvolvimento de software** e a **arte de ensinar**. Atualmente, atuo na área de saúde otimizando sistemas, enquanto curso Engenharia de Software. Minha missão é traduzir linhas de código complexas em soluções eficientes e conhecimento compartilhável!
 
-*   🔭 **Atuação Atual:** Analista de Sistemas focado em melhoria contínua e treinamentos técnicos.
-*   🎓 **Formação:** Graduando em Engenharia de Software.
-*   🎯 **Objetivo de Carreira:** Focar cada vez mais em habilitar o sucesso do cliente através de tecnologia e capacitação (*Implementation / Customer Enablement*).
-*   🌱 **Estudando no momento:** Customer Experience Management.
+* **Atuação Atual:** Analista de Sistemas focado em melhoria contínua e treinamentos técnicos.
+* **Formação:** Graduando em Engenharia de Software.
+* **Objetivo de Carreira:** Focar cada vez mais em habilitar o sucesso do cliente através de tecnologia e capacitação (*Implementation / Customer Enablement*).
+* **🌱 Estudando no momento:** Customer Experience Management.
 
 ---
 
@@ -22,7 +22,7 @@ Sou um entusiasta da tecnologia que encontrou o equilíbrio perfeito entre **des
 <details>
   <summary><b>💻 Desenvolvimento & Engenharia (Clique para expandir)</b></summary>
   <br>
-  
+
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,7 +32,7 @@ Sou um entusiasta da tecnologia que encontrou o equilíbrio perfeito entre **des
 <details>
   <summary><b>📊 Análise, Negócio & Infraestrutura</b></summary>
   <br>
-  
+
   ![Sistemas](https://img.shields.io/badge/Análise_de_Sistemas-00599C?style=for-the-badge&logo=diagrams.net&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -41,7 +41,7 @@ Sou um entusiasta da tecnologia que encontrou o equilíbrio perfeito entre **des
 <details>
   <summary><b>🗣️ Soft Skills & Educação</b></summary>
   <br>
-  
+
   ![Treinamentos](https://img.shields.io/badge/Treinamentos_Técnicos-4CAF50?style=for-the-badge&logo=google-classroom&logoColor=white)
   ![Customer Success](https://img.shields.io/badge/Customer_Success-FF5722?style=for-the-badge&logo=handshake&logoColor=white)
   ![Didática](https://img.shields.io/badge/Didática_e_Ensino-9C27B0?style=for-the-badge)
@@ -66,8 +66,8 @@ Aqui o bicho pega! Gráficos interativos atualizados automaticamente com o meu d
 
 ## ⚡ Curiosidades Interativas
 
-*   **Minha Stack de Produtividade:** Fã de soluções self-hosted e segurança da informação (gerenciadores de senha locais são vida!).
-*   **Combustível:** Se me vir codando ou montando um treinamento, provavelmente há uma xícara de café e uma porção de frutas por perto.
+* **Minha Stack de Produtividade:** Fã de soluções self-hosted e segurança da informação (gerenciadores de senha locais são vida!).
+* **Combustível:** Se me vir codando ou montando um treinamento, provavelmente há uma xícara de café e uma porção de frutas por perto.
 
 ---
 
@@ -75,7 +75,7 @@ Aqui o bicho pega! Gráficos interativos atualizados automaticamente com o meu d
 
 Bora trocar uma ideia sobre código, metodologias de ensino ou processos de sistemas?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paloma-lima-a63447148)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-lima-a63447148)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palomalima272@gmail.com)
 
 <div align="center">
