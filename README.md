@@ -24,6 +24,7 @@ Sou um entusiasta da tecnologia que encontrou o equilíbrio perfeito entre **des
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="JavaScript" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="SQL" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="SQL" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="SQL" height="40" />
 </details>
 
 <details>
